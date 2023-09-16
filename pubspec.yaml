@@ -1,6 +1,6 @@
 name: app_install_events
-description: A Flutter package that enables detection of application installation and uninstallation events on Android devices. It simplifies monitoring changes in the list of installed applications.
-version: 0.0.1
+description: A Flutter package that enables detection of application installation and uninstallation events on Android devices.
+version: 0.0.2
 homepage: https://github.com/AbianS/app_install_events
 
 environment:

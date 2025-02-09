@@ -1,11 +1,11 @@
 name: app_install_events
 description: A Flutter package that enables detection of application installation and uninstallation events on Android devices.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/AbianS/app_install_events
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
@@ -23,4 +23,3 @@ flutter:
       android:
         package: com.abian.app_install_events
         pluginClass: AppInstallEventsPlugin
-

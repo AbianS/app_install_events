@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace 'com.example.app_install_events'
+        namespace 'com.abian.app_install_events'
     }
 
     compileSdkVersion 33
